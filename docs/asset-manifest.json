@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Oleg-Vasylkovan/PuttingItTogether.git/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/Oleg-Vasylkovan/PuttingItTogether.git/static/js/main.85c60b42.chunk.js",
+    "main.js.map": "/Oleg-Vasylkovan/PuttingItTogether.git/static/js/main.85c60b42.chunk.js.map",
+    "runtime-main.js": "/Oleg-Vasylkovan/PuttingItTogether.git/static/js/runtime-main.a2531dab.js",
+    "runtime-main.js.map": "/Oleg-Vasylkovan/PuttingItTogether.git/static/js/runtime-main.a2531dab.js.map",
+    "static/js/2.e1314401.chunk.js": "/Oleg-Vasylkovan/PuttingItTogether.git/static/js/2.e1314401.chunk.js",
+    "static/js/2.e1314401.chunk.js.map": "/Oleg-Vasylkovan/PuttingItTogether.git/static/js/2.e1314401.chunk.js.map",
+    "static/js/3.79b81c5b.chunk.js": "/Oleg-Vasylkovan/PuttingItTogether.git/static/js/3.79b81c5b.chunk.js",
+    "static/js/3.79b81c5b.chunk.js.map": "/Oleg-Vasylkovan/PuttingItTogether.git/static/js/3.79b81c5b.chunk.js.map",
+    "index.html": "/Oleg-Vasylkovan/PuttingItTogether.git/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/Oleg-Vasylkovan/PuttingItTogether.git/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.e1314401.chunk.js.LICENSE.txt": "/Oleg-Vasylkovan/PuttingItTogether.git/static/js/2.e1314401.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2531dab.js",
+    "static/js/2.e1314401.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.85c60b42.chunk.js"
+  ]
+}
